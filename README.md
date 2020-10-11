@@ -10,7 +10,7 @@ Read, write, and delete notes!
 * [Questions](#questions)
 * [License](#license)
 ## Screenshot
-![Screenshot of Workflow](screenshot.gif)
+![Screenshot of Workflow](screenshot.png)
 ## Installation
 1. Make sure you have nodejs and npm installed on your local machine
 1. Clone this repo onto your local machine
