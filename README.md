@@ -2,7 +2,7 @@
 ## Description
 Read, write, and delete notes!
 ## Links
-* [App](https://magedabdelsalam.com/note-app)
+* [App](http://notes-for-everyone.herokuapp.com/note-app)
 ## Table Of Contents
 * [Screenshot](#screenshot)
 * [Installation](#installation)
